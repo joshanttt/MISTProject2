@@ -13,12 +13,13 @@
 7. Rebekah Bradbury [@rebekahbradbury]()
 
 
-## Describing the Dataset and What it Contains
+## Describing the Dataset and What it Contains:
 
-## 2 Team Generated Questions and Why They Are Interesting/ Important
+## Two Team Generated Questions and Why They are Interesting/ Important:
 
-## The Manipulations Applied to the Data Set as Part of the Analysis
+## The Manipulations Applied to the Data Set as Part of the Analysis:
 
-## Analysis and Results
+## Analysis and Results:
 
-## Tableau Packaged Workbook
+## Tableau Packaged Workbook:
+*include the file here*
