@@ -18,10 +18,12 @@ The dataset that we selected contains the average price of electricity from the 
 
 
 ## Two Team Generated Questions and Why They are Interesting/ Important:
-1. What is the average electricity price by state for all customers (residential, transportation, commercial, industrial) 
+1. What is the average electricity price by state for all customers (residential, transportation, commercial, industrial)?
+   
 This would be interesting/important because it provides a comprehensive view of the overall cost of electricity in different regions. Analyzing this data can reveal disparities in pricing across states, which can be influenced by factors such as energy source mix, regulatory policies, infrastructure investments, and demand patterns. 
 
-2. What does the average price of electricity look like for residential electricity users in Georgia in 2027? 
+3. What does the average price of electricity look like for residential electricity users in Georgia in 2027?
+   
 Forecasting the prices of electricity for residential consumers in Georgia can be important for many reasons. First, Georgia's average residential electricity price compared to neighboring states or national averages can influence its competitiveness in attracting residents, businesses, and industries. Lower electricity prices may make the state more attractive for relocation or investment. Additionally, residential electricity prices directly impact households' budgets. Knowing the average price of electricity in Georgia allows residents to anticipate and plan for their energy expenses, helping them make informed financial decisions. This information is especially relevant to peers our age scouting out potential job locations/places to live post-graduation. 
 
 
